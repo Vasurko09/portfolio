@@ -1,1 +1,1 @@
-web: gunicorn portf.wsgi --log-file -
+web: gunicorn protf:server
